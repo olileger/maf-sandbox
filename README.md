@@ -1,2 +1,85 @@
 # maf-sandbox
 My dev sandbox for Microsoft Agent Framework experimentations
+
+# MAF Doc status
+Agent Framework
+    **Overview**
+        **Step 1: Your First Agent**
+        **Step 2: Add Tools**
+        **Step 3: Multi-Turn Conversations**
+        **Step 4: Memory & Persistence**
+        **Step 5: Workflows**
+        **Step 6: Host Your Agent**
+    Agents
+        **Overview**
+        **Running Agents**
+        Agent Pipeline
+        Multimodal
+        Structured Output
+        Background Responses
+        RAG
+        Declarative Agents
+        Observability
+        Agent Skills
+        Agent Safety
+        Tools
+            Overview
+            Function Tools
+            Tool Approval
+            Code Interpreter
+            File Search
+            Web Search
+            Hosted MCP Tools
+            Local MCP Tools
+        Conversation & Memory
+            Overview
+            Session
+            Context Providers
+            Storage
+            Compaction
+        Middleware
+            Overview
+            Defining Middleware
+            Chat-Level Middleware
+            Agent vs Run Scope
+            Termination & Guardrails
+            Result Overrides
+            Exception Handling
+            Shared State
+            Runtime Context
+        Providers
+            Overview
+            Azure OpenAI
+            OpenAI
+            Microsoft Foundry
+            Anthropic
+            Ollama
+            GitHub Copilot
+            Copilot Studio
+            Custom Provider
+    Workflows
+        Overview
+        Executors
+        Edges
+        Events
+        Workflow Builder & Execution
+        Agents in Workflows
+        Human-in-the-Loop
+        State Management
+        Checkpoints & Resuming
+        Declarative Workflows
+        Observability
+        Workflows as Agents
+        Visualization
+        Orchestrations
+            Overview
+            Sequential
+            Concurrent
+            Handoff
+            Group Chat
+            Magentic
+        Advanced
+            Agent Executor
+            Execution Modes
+            Resettable Executors
+            Sub-Workflows

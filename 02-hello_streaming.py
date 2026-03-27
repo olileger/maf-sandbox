@@ -11,6 +11,8 @@ async def main():
         name="Test",
         instructions="Tu es un agent qui écrit un poème sur un thème donné.",
     )
+
+    # chunk is a ResponseStream object
     async for chunk in agent.run("Écris un poème sur le thème de l'amitié.", stream=True):
         if chunk.text:
             print(chunk.text, end="", flush=True)

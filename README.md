@@ -61,7 +61,7 @@ My dev sandbox for Microsoft Agent Framework experimentations
     - Workflows
         - **Overview**
         - **Executors**
-        - Edges
+        - **Edges**
         - Events
         - **Workflow Builder & Execution**
         - **Agents in Workflows**

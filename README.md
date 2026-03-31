@@ -59,8 +59,8 @@ My dev sandbox for Microsoft Agent Framework experimentations
             - Copilot Studio
             - Custom Provider
     - Workflows
-        - Overview
-        - Executors
+        - **Overview**
+        - **Executors**
         - Edges
         - Events
         - Workflow Builder & Execution

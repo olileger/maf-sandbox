@@ -64,7 +64,7 @@ My dev sandbox for Microsoft Agent Framework experimentations
         - Edges
         - Events
         - Workflow Builder & Execution
-        - Agents in Workflows
+        - **Agents in Workflows**
         - Human-in-the-Loop
         - State Management
         - Checkpoints & Resuming
